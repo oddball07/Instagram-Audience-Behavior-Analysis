@@ -2,7 +2,7 @@
 
 ## Problem Statement
 Raw Instagram user data is often unstructured and difficult to analyze directly.  
-This project focuses on transforming raw Instagram data into a readable and structured format and performing descriptive analysis to understand audience characteri
+This project focuses on transforming raw Instagram data into a readable and structured format and performing descriptive analysis to understand audience characteristics
 
 ## Dataset
 The dataset contains raw Instagram user information including:
